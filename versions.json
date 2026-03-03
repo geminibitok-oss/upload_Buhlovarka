@@ -1,7 +1,12 @@
 {
-    "latest":  "v3.6",
-    "updated_at":  "2026-03-03T10:37:35Z",
+    "latest":  "v4.0",
+    "updated_at":  "2026-03-03T12:10:05Z",
     "releases":  [
+                     {
+                         "version":  "v4.0",
+                         "path":  "releases/v4.0",
+                         "created_at":  "2026-03-03T12:10:05Z"
+                     },
                      {
                          "version":  "v3.6",
                          "path":  "releases/v3.6",
@@ -46,11 +51,6 @@
                          "version":  "v2.0",
                          "path":  "releases/v2.0",
                          "created_at":  "2026-03-03T06:51:36Z"
-                     },
-                     {
-                         "version":  "v1.1",
-                         "path":  "releases/v1.1",
-                         "created_at":  "2026-02-27T15:08:26Z"
                      }
                  ]
 }
