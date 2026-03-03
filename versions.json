@@ -1,7 +1,12 @@
 {
-    "latest":  "v1.1",
-    "updated_at":  "2026-02-27T15:08:26Z",
+    "latest":  "v2.0",
+    "updated_at":  "2026-03-03T06:51:36Z",
     "releases":  [
+                     {
+                         "version":  "v2.0",
+                         "path":  "releases/v2.0",
+                         "created_at":  "2026-03-03T06:51:36Z"
+                     },
                      {
                          "version":  "v1.1",
                          "path":  "releases/v1.1",
